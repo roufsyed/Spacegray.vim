@@ -1,0 +1,27 @@
+colors:
+  name: spacegrey
+  author: rouf
+  # Default colors
+  primary:
+    background: '#111314'
+    foreground: '#B7BBB7'
+  # Normal colors
+  normal:
+    black:   '#2C2F33'
+    red:     '#B04C50'
+    green:   '#919652'
+    yellow:  '#E2995C'
+    blue:    '#66899D'
+    magenta: '#8D6494'
+    cyan:    '#527C77'
+    white:   '#606360'
+  # Bright colors
+  bright:
+    black:   '#4B5056'
+    red:     '#B04C50'
+    green:   '#94985B'
+    yellow:  '#E2995C'
+    blue:    '#66899D'
+    magenta: '#8D6494'
+    cyan:    '#527C77'
+    white:   '#DDE3DC'
